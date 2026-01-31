@@ -7,4 +7,6 @@ print("I'm 20 years old")
 #fork -- make your own copy of someone else's repo 
 # on your github account
 
+print("Enter your name")
+
 
